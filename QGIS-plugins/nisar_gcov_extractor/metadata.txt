@@ -1,0 +1,12 @@
+[general]
+name=NISAR GCOV Frequency A Extractor
+qgisMinimumVersion=4.0
+qgisMaximumVersion=4.99
+description=Stream and subset NISAR Frequency A diagonal covariance terms from GCOV HDF5 files directly from NASA Earthdata Cloud using byte-range requests.
+version=1.0.0
+author=Heidi Kristenson with Google Gemini (October 2026)
+email=hjkristenson@alaska.edu
+about=QGIS plugin for streaming and spatial subsetting of NISAR GCOV HDF5 products using NASA Earthdata Bearer Tokens.
+tracker=https://github.com
+repository=https://github.com
+plugin_installer_flags=self_contained
